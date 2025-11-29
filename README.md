@@ -45,3 +45,8 @@ Government and Small Business segments contribute the most (53M and 42M, respect
 This visualization shows how sales are distributed across different market segments and where future opportunities may lie.
 
 Overall, this dashboard is a powerful tool for decision-makers, enabling them to track sales trends, evaluate the performance of products and countries, and identify high-profit opportunities across different customer demographics and segments. Its clean design and comprehensive data help businesses make informed, data-driven decisions to optimize future strategies.
+
+
+## Project link 
+
+link:-
